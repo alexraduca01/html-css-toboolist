@@ -85,11 +85,14 @@ main {
 }
 nav {
     margin-bottom: 20px;
-    padding: 5px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
     border-bottom: 1px solid #f6f8f9;
 }
 section {
     margin-bottom: 20px;
+    padding-left: 30px;
 }
 li {
     padding: 10px;
