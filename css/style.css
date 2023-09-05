@@ -54,18 +54,45 @@
 
 .nav-borders {
     border-radius: 5px;
+    font-size: 0.6em;
+    padding: 5px;
+    display: inline-block;
 }
 .section-borders {
     border-radius: 10px;
+    font-size: 0.5em;
+    padding: 5px;
 }
 
 /* Utility */
 body {
     font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+header {
+    padding: 20px;
+}
+h1 {
+    display: inline;
 }
 main {
-    border-radius: 5px;
+    padding: 50px;
 }
-div {
-    display: inline-block;
+.container {
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+}
+nav {
+    margin-bottom: 20px;
+    padding: 5px;
+    border-bottom: 1px solid #f6f8f9;
+}
+section {
+    margin-bottom: 20px;
+}
+li {
+    padding: 10px;
+    font-size: 0.8em;
+    list-style: none;
 }
