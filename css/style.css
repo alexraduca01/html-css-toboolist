@@ -35,12 +35,22 @@
     border: 1px solid #b7f4e3;
     border-radius: 50%;
     font-size: 0.5em;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
 }
 .cross {
     color: #d9624d;
     border: 1px solid #d9624d;
     border-radius: 50%;
     font-size: 0.5em;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
 }
 .txt-grey {
     color: #cbd0d4;
@@ -62,6 +72,7 @@
     border-radius: 10px;
     font-size: 0.5em;
     padding: 5px;
+    display: inline-block;
 }
 
 /* Utility */
